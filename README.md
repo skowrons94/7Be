@@ -25,6 +25,7 @@ The 7Be project focuses on:
 ├── nuclear.py            # Utility functions for nuclear data processing
 ├── prepare_azure.py      # Script to processes data for AZURE2
 ├── prepare_sammy.py      # Script to processes data for SAMMY
+├── prepare_paneru.py     # Script to processes Paneru data for SAMMY
 ├── ripl2pops.xml         # XML file for RIPL compatibility
 ├── run.sh                # Shell script to execute the full data processing and simulation pipeline
 └── .gitignore            # Specifies files and directories to be ignored by Git
