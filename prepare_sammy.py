@@ -173,6 +173,10 @@ for file in files:
     if projectile == "H1": projectile = "p"
     if ejectile == "H1": ejectile = "p"
 
+    # Round the angle to 2 decimal places
+    for i in range(len(data)):
+        data[i,1] = round(data[i,1], 2)
+
     # Now we have to create one file for each angle in the data (second column)
     for angle in np.unique(data[:,1]):
         # Get the rows with the same angle
