@@ -1,6 +1,3 @@
-# Ignore AZURE2 directory in the main folder but not in subfolders
-AZURE2/
-
 # Ignore MacOS system files
 .DS_Store
 
