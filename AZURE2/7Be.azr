@@ -172,20 +172,20 @@ none                                                                            
 
 </levels>
 <segmentsData>
-1              2              1              0              7              0              180            0              1              1              5              data/Abramovich-A0244002.dat
-1              2              1              0.1            1              0              180            4              1              1              5              data/Elwyn-F0012002.dat
-1              2              1              0.9            3              0              180            4              1              1              5              data/Elwyn-F0012003.dat
-1              2              1              0              10             0              180            0              1              1              5              data/Elwyn-F0012005.dat
-1              2              2              0              20             0              180            4              1              1              5              data/Fasoli-D0135002.dat
-1              2              2              2              10             0              180            4              1              1              5              data/Harrison-C1003002.dat
-1              1              1              0              10             0              180            4              1              1              5              data/Ivanovich-A1014010.dat
-1              2              2              0.4            3              0              180            4              1              1              5              data/Mccray-A1410002.dat
-1              2              2              0.4            3              0              180            4              1              1              0              data/Mccray-A1410003.dat
-1              1              1              0.6            6              0              180            1              1              1              5              data/Paneru.dat
-1              2              1              2              7              0              180            4              1              1              5              data/Schenk-F0049002.dat
-1              1              1              0              13             0              180            4              1              1              5              data/Spiger-A1094004.dat
-1              1              2              7              14             0              180            1              1              1              2              data/Spiger-A1094007.dat
-1              2              1              0              10             0              180            0              1              1              5              data/Tumino-O1221002.dat
+1              2              1              0              7              0              180            0              1              0              5              data/Abramovich-A0244002.dat
+1              2              1              0.1            1              0              180            4              1              0              5              data/Elwyn-F0012002.dat
+1              2              1              0.9            3              0              180            4              1              0              5              data/Elwyn-F0012003.dat
+1              2              1              0              10             0              180            0              1              0              5              data/Elwyn-F0012005.dat
+1              2              2              0              20             0              180            4              1              0              5              data/Fasoli-D0135002.dat
+1              2              2              2              10             0              180            4              1              0              5              data/Harrison-C1003002.dat
+1              1              1              0              10             0              180            4              1              0              5              data/Ivanovich-A1014010.dat
+1              2              2              0.4            3              0              180            4              1              0              5              data/Mccray-A1410002.dat
+1              2              2              0.4            3              0              180            4              1              0              0              data/Mccray-A1410003.dat
+1              1              1              0.6            6              0              180            1              1              0              5              data/Paneru.dat
+1              2              1              2              7              0              180            4              1              0              5              data/Schenk-F0049002.dat
+1              1              1              0              13             0              180            4              1              0              5              data/Spiger-A1094004.dat
+1              1              2              7              14             0              180            1              1              0              2              data/Spiger-A1094007.dat
+1              2              1              0              10             0              180            0              1              0              5              data/Tumino-O1221002.dat
 </segmentsData>
 <segmentsTest>
 1              1              1              0.01           40             0.01           39             39             0              1
@@ -193,7 +193,7 @@ none                                                                            
 <targetInt>
 </targetInt>
 <lastRun>
-14109
+14093
 "output/param.sav"
 "output/intEC.dat"
 1 2
