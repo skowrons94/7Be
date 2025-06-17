@@ -1,6 +1,6 @@
 # Data Checks
 
-- Abramovich data (A0244002) are cut in AZURE2 files: the real ones start at 0.05 MeV, the AZURE2 at 0.12 MeV. The reason is the screening effect.
+- Abramovich data (A0244002) are cut in AZURE2 files: the real ones start at 0.05 MeV, the AZURE2 at 0.12 MeV. The reason is the screening effect (James).
 
 - Barnard data (A1269002) are not usedd because the newer Paneru data are available.
 
@@ -14,7 +14,7 @@
 
 - Harrison data (C1003002) is the same as the EXFOR one.
 
-- Ivanovic data (A1014010) used 3He beam instead of 4He one so the energies were converted accordingly.
+- Ivanovic data (A1014010) used 3He beam instead of 4He one so the energies were converted accordingly and data agree.
 
 - McCray data (A1410002, A1410003 and A1410004) are problematic since Ian seems to have many more data with respect to these available on EXFOR. However, EXFOR data points are more dense, the Ian's one instead seems to have more angles instead. The A1410004 seems problematic to fit: James provided me his digitized data and they seem to be much better.
 
@@ -22,9 +22,9 @@
 
 - Spiger data (A1094004) was ok.
 
-- Spiger data (A1094007) are in lab angles on EXFOR respect to CM in Ian's data. Additionally, the A1094006 dataset is available but some of the data at low energies are too low with respect to the AZURE2 prediction thus they are ignored.
+- Spiger data (A1094007) are in lab angles on EXFOR respect to CM in Ian's data.
 
 - Tumino data (O1221002) is the same as the EXFOR, but they had to be converted to lab energies for AZURE2.
 
-- Sometimes the errors in EXFOR are null, thus we assume a conservative 10% for these.
+- The errors are null in EXFOR for Spiger (A1094004), Spiger (A1094007), Schenk (F0049002) and McCray (A1410004) thus we assume a conservative 10% for these.
 
